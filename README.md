@@ -1,6 +1,6 @@
 # STARTER-lab02
 
-Javadoc: https://ucsb-cs56-w20.github.io/lab02-kalebkwok/javadoc/
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-kalebkwok/
 Repo: https://github.com/ucsb-cs56-w20/lab02-kalebkwok
 
 # About this repo
